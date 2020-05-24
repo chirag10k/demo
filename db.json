@@ -1,14 +1,48 @@
+[ {
+  "title" : "Flutter iOS developer internship task",
+  "description" : "Test Desription",
+  "image" : "https://www.revidly.co/images/pollution2.jpg",
+  "author" : "Revidly Author",
+  "avatar" : "https://www.revidly.co/images/pubg3.jpg",
+  "topic": "Games",
+  "comments" : "0",
+  "upvotes":"15",
+  "downvotes":"5"
+},
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "title" : "Flutter iOS developer internship task 2",
+  "description" : "Test Desription",
+  "image" : "https://www.revidly.co/images/pollution2.jpg",
+  "author" : "Revidly Author",
+  "avatar" : "https://www.revidly.co/images/pubg3.jpg",
+  "topic": "Games",
+  "comments" : "0",
+  "upvotes":"15",
+  "downvotes":"5"
+},
+
+{
+  "title" : "Flutter iOS developer internship task 3",
+  "description" : "Test Desription",
+  "image" : "https://www.revidly.co/images/pollution2.jpg",
+  "author" : "Revidly Author",
+  "avatar" : "https://www.revidly.co/images/pubg3.jpg",
+  "topic": "Games",
+  "comments" : "0",
+  "upvotes":"15",
+  "downvotes":"5"
+},
+
+{
+  "title" : "Flutter iOS developer internship task 4",
+  "description" : "Test Desription",
+  "image" : "https://www.revidly.co/images/pollution2.jpg",
+  "author" : "Revidly Author",
+  "avatar" : "https://www.revidly.co/images/pubg3.jpg",
+  "topic": "Games",
+  "comments" : "0",
+  "upvotes":"15",
+  "downvotes":"5"
 }
+]
+
